@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Walmart Weekly Sales Forecast"
+message: "If you use this project, please cite it using this metadata."
+type: software
+version: 1.0.0
+date-released: 2026-01-31
+authors:
+  - family-names: Sumathi
+    given-names: Che
+keywords:
+  - time-series
+  - forecasting
+  - machine-learning
+  - retail
+  - sales-prediction
+  - walmart
+license: MIT
+repository-code: https://github.com/sumathiche/walmart-weekly-sales-forecast
